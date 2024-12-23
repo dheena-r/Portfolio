@@ -1,0 +1,10 @@
+portfolio/
+├── index.html         // Main HTML file
+├── styles/
+│   ├── style.css      // Global CSS
+│   ├── animations.css // Animations
+├── scripts/
+│   ├── app.js         // Main JavaScript
+│   ├── validation.js  // Form validation
+├── images/            // Store your portfolio images
+└── assets/            // Other assets like fonts, icons
